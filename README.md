@@ -20,3 +20,13 @@ Note: Install instructions are mostly for macos. However, sometimes links are pr
 * Command: `fortune`
 * You can contribute to the project on Github by adding more (fortune) quotes
 * To display a random quote when launching an interactive terminal, add the fortune command to the .bash_profile file: `vi ~/.bash_profile` and add `fortune` on a separate line
+
+
+## Cowsay
+
+* Installation: `brew install cowsay`
+* [Github](https://github.com/tnalpgge/rank-amateur-cowsay)
+* [Wikipedia](https://en.wikipedia.org/wiki/Cowsay)
+* Command: `cowsay "<random text here>"`
+* With fortune: `fortune | cowsay`
+* Linux penguin instead of cow: `cowsay -f tux "<random text here>"`
