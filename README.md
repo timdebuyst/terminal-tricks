@@ -7,7 +7,7 @@ Note: Install instructions are mostly for macos. However, sometimes links are pr
 ## FIGlet
 
 * Installation: `brew install figlet`
-* (Website)[http://www.figlet.org/]
+* [Website](http://www.figlet.org/)
 * Command: `figlet "<random text here>"`
 * There are many different fonts to choose from: `figlet -f dotmatrix "<random text here>"`
 
