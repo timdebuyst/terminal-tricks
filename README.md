@@ -30,3 +30,4 @@ Note: Install instructions are mostly for macos. However, sometimes links are pr
 * Command: `cowsay "<random text here>"`
 * With fortune: `fortune | cowsay`
 * Linux penguin instead of cow: `cowsay -f tux "<random text here>"`
+* Moofasa instead of cow: `cowsay -f moofasa "<random text here>"`
