@@ -31,3 +31,18 @@ Note: Install instructions are mostly for macos. However, sometimes links are pr
 * With fortune: `fortune | cowsay`
 * Linux penguin instead of cow: `cowsay -f tux "<random text here>"`
 * Moofasa instead of cow: `cowsay -f moofasa "<random text here>"`
+
+## sl (riding train)
+
+* Installation: `brew install sl`
+* Command: `sl`
+* With lolcat: `sl | lolcat`
+
+## Asciiquarium
+
+* Installation: `brew install asciiquarium`
+* [Github](https://github.com/cmatsuoka/asciiquarium)
+* Command: `asqiiquarium`
+* Close: `q`
+* Reload: `r`
+
