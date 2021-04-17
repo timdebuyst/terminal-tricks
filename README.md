@@ -46,3 +46,10 @@ Note: Install instructions are mostly for macos. However, sometimes links are pr
 * Close: `q`
 * Reload: `r`
 
+## Cmatrix
+
+* Installation: `brew install cmatrix`
+* [Github](https://github.com/abishekvashok/cmatrix)
+* Command: `cmatrix`
+* Close: `q`
+
