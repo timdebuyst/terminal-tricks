@@ -11,3 +11,12 @@ Note: Install instructions are mostly for macos. However, sometimes links are pr
 * Command: `figlet "<random text here>"`
 * There are many different fonts to choose from: `figlet -f dotmatrix "<random text here>"`
 
+## Fortune
+
+* Installation: `brew install fortune`
+* [Website](https://www.shlomifish.org/open-source/projects/fortune-mod/)
+* [ArchWiki](https://wiki.archlinux.org/index.php/Fortune)
+* [Github](https://github.com/shlomif/fortune-mod) 
+* Command: `fortune`
+* You can contribute to the project on Github by adding more (fortune) quotes
+* To display a random quote when launching an interactive terminal, add the fortune command to the .bash_profile file: `vi ~/.bash_profile` and add `fortune` on a separate line
