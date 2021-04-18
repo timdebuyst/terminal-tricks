@@ -53,3 +53,6 @@ Note: Install instructions are mostly for macos. However, sometimes links are pr
 * Command: `cmatrix`
 * Close: `q`
 
+## Get the weather forecast in your terminal
+
+* Command: `curl wttr.in/<your-city>`
